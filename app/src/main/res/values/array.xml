@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="level">
+        <item>易(無限制)</item>
+        <item>中(25次內)</item>
+        <item>難(15次內)</item>
+    </array>
+
+</resources>
